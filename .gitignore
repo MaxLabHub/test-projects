@@ -80,3 +80,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+CleverLight/.idea/compiler.xml
+CleverLight/.idea/codeStyles/Project.xml
+CleverLight/.idea/encodings.xml
+CleverLight/.idea/misc.xml
+CleverLight/.idea/runConfigurations.xml
+CleverLight/.idea/gradle.xml
