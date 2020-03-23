@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CleverLight</string>
+    <string name="explanation">Description\n==========\n
+    Application uses proximity sensor to turn ON the screen and bring its brightness to high level. After the timeout screen will be turned OFF and could be enabled by activating the sensor.</string>
+    <string name="turn_screen_off">Turn screen OFF</string>
+    <string name="timeout_label">Timeout</string>
+</resources>
